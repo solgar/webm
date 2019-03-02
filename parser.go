@@ -9,7 +9,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/ebml-go/ebml"
+	"github.com/solgar/ebml"
 )
 
 type WebM struct {

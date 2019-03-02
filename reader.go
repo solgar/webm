@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/ebml-go/ebml"
+	"github.com/solgar/ebml"
 )
 
 const (
